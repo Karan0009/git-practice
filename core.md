@@ -3,3 +3,4 @@
 3. added 3rd core functionality
 4. added 4th core functionality edited here
 5. added 5th core functionality
+6. added 6th core functionality
